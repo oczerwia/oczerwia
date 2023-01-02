@@ -1,6 +1,6 @@
-- 👋 Hi, my Name is Oliver Czerwiak and I am currently studying Information Systems at the WWU in Münster (Germany).
-- 👀 I’m interested in fitness, music (especially rock/metal, oldschool hiphop and trance) and all things data related.
-- 🌱 I’m currently learning the basics of cyber security and everything that I am doing in my most recent project.
+- 👋 Hi, my Name is Oliver Czerwiak and I am currently studying Information Systems Management at the Berlin Institute of Technology (TU Berlin).
+- 👀 I’m interested in fitness, music (especially rock/metal, oldschool hiphop and techno) and all things about data and autonomous vehicles.
+- 🌱 Currently I am using this profile to collaborate with a collegue. We are writing our own autonomous toy vehicle!
 - 💞️ I’m looking to collaborate on WebScrapers and on Data Analysis. Hit me up if you have an interesting dataset that you want to explore.
 - 📫 How to reach me: I am active on LinkedIn! https://www.linkedin.com/in/oliverczerwiak/
 
