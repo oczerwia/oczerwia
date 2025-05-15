@@ -1,7 +1,6 @@
 - 👋 Hi, my Name is Oliver Czerwiak and I am currently studying Information Systems Management at the Berlin Institute of Technology (TU Berlin).
 - 👀 I’m interested in fitness, music (especially rock/metal, oldschool hiphop and techno) and all things about data!
-- 🌱 Currently I am using this profile for my masterthesis about unsupervised representation learning for biosignal analysis (fNIRS to be exact)!
-- 💞️ I’m looking to collaborate on WebScrapers and on Data Analysis. Hit me up if you have an interesting dataset that you want to explore.
+- 🌱 Currently I am using this profile for my masterthesis about uncertainty aware join ordering algorithms and for a startup.
 - 📫 How to reach me: I am active on LinkedIn! https://www.linkedin.com/in/oliverczerwiak/
 
 <!---
